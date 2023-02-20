@@ -1,7 +1,7 @@
 # Cmpe282-Cloud-Services-Assignment-1-Active-Directory-
 
-#### Submitted To-Prof. Andrew Bond
-#### Team Name: -  Trios
+### Submitted To-Prof. Andrew Bond
+### Team Name: -  Trios
 #### Project supervisor :- Prof. Andrew Bond
 #### Project leader :- Pramatha Nadig
 #### Team members :-
