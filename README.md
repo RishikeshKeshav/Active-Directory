@@ -1,15 +1,17 @@
 # Cmpe282-Cloud-Services-Assignment-1-Active-Directory-
 
-Submitted To-Prof. Andrew Bond
-Team Name: -  Trios
-    Project supervisor :- Prof. Andrew Bond
- Project leader :- Pramatha Nadig
- Team members :-
+#### Submitted To-Prof. Andrew Bond
+#### Team Name: -  Trios
+#### Project supervisor :- Prof. Andrew Bond
+#### Project leader :- Pramatha Nadig
+#### Team members :-
 1)	Namrata Kurapati (016728816)
+
 2)	Pramatha Nadig (016708588)
+
 3)	Rishikesh Andhare (016726203)
-GitHub : https://github.com/RishikeshKeshav/Cmpe282-Cloud-Services-Assignment-1-Active-Directory-
-Steps:-
+#### GitHub : https://github.com/RishikeshKeshav/Cmpe282-Cloud-Services-Assignment-1-Active-Directory-
+#### Steps:-
 ●	Create an Active Directory with a domain Name.
 ●	Create Ec2 Instance to host the virtual Machine as Windows.
 ●	Configured Public IPs and domain Name in Virtual Machine.
@@ -165,5 +167,8 @@ foreach ($User in $ADUsers)
 
 
 References:-
+
 https://docs.aws.amazon.com/directory-service/index.html
+
+
 https://docs.aws.amazon.com/ec2/index.html
