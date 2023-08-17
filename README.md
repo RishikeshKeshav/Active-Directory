@@ -3,13 +3,9 @@
 ### Submitted To-Prof. Andrew Bond
 ### Team Name: -  Trios
 #### Project supervisor :- Prof. Andrew Bond
-#### Project leader :- Pramatha Nadig
-#### Team members :-
-1)	Namrata Kurapati (016728816)
 
-2)	Pramatha Nadig (016708588)
-
-3)	Rishikesh Andhare (016726203)
+#### Rishikesh Andhare (016726203)
+	
 #### GitHub : https://github.com/RishikeshKeshav/Cmpe282-Cloud-Services-Assignment-1-Active-Directory-
 #### Steps:-
 ●	Create an Active Directory with a domain Name.
