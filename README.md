@@ -6,7 +6,7 @@
 
 #### Rishikesh Andhare (016726203)
 	
-#### GitHub : https://github.com/RishikeshKeshav/Cmpe282-Cloud-Services-Assignment-1-Active-Directory-
+
 #### Steps:-
 ●	Create an Active Directory with a domain Name.
 ●	Create Ec2 Instance to host the virtual Machine as Windows.
