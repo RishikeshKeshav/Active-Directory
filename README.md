@@ -1,4 +1,4 @@
-# Cmpe282-Cloud-Services-Assignment-1-Active-Directory-
+# Active-Directory-
 
 ### Submitted To-Prof. Andrew Bond
 ### Team Name: -  Trios
